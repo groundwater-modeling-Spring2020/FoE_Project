@@ -5,11 +5,11 @@
 .idea
 *.idea/
 *.bas
-
+*.cbc
 *.ddn
 *.dis
 *.evt
-
+*.hds
 *.lis
 *.lpf
 *.nam
