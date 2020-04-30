@@ -5,7 +5,7 @@
 .idea
 *.idea/
 *.bas
-*.cbc
+
 *.ddn
 *.dis
 *.evt
