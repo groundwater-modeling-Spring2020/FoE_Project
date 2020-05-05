@@ -1,0 +1,8 @@
+Variable,Inputs,#Knob,Level
+Kxyz,25.0,1,Mid
+Kz:low,0.0001,0,Low
+Sy,0.1,1,Mid
+rech_mount,1e-05,0,Low
+ET_val,0.0001,2,High
+ET:rip,1.0,0,Low
+K:streambed,10.0,0,Low
